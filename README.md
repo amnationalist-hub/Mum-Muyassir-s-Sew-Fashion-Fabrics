@@ -1,2 +1,49 @@
-# Mum-Muyassir's-Sew-Fashion-Fabrics
-CC-Hub GATEWAY Capstone — CRM &amp; automation system for a Nigerian fashion SME.
+# Mum Muyassir's Sew Fashion & Fabrics — Digital Marketing & CRM Capstone
+
+CC-Hub GATEWAY Digital Marketing Track capstone project.
+
+## Overview
+
+Zahra Fashion & Fabrics is a Nigerian fashion and fabrics SME selling through
+WhatsApp, Instagram and Facebook. Before this project, customer enquiries were
+scattered across channels with no central record, follow-up depended on memory,
+and there was no way to tell a new enquirer from a returning customer.
+
+This project builds a working digital CRM and automation system to fix that —
+while keeping WhatsApp and social media as the business's real customer-facing
+channels. The system works behind them, not instead of them.
+
+## What's in this repo
+
+| Path | Contents |
+|---|---|
+| `docs/capstone-report.pdf` | Full project report — business overview, system architecture, results, limitations |
+| `docs/demo-video-script.pdf` | Script used to record the demo video |
+| `automation/make-blueprint.json` | Exported Make.com scenario — the lead capture and returning-customer automation |
+| `assets/` | Dashboard and system screenshots |
+
+## Live links
+
+- **Demo video:** [link here]
+- **CRM workbook (view-only):** [link here]
+- **Lead capture form:** [link here]
+
+## System summary
+
+A 7-sheet Google Sheets CRM (Leads, Customers, Interactions, Products, Orders,
+Campaigns, Dashboard), connected by auto-generated IDs, fed by a Google
+Form → Make.com automation that:
+
+1. Logs every enquiry as a Lead
+2. Matches the enquirer against existing customers **by phone number**
+3. Creates a new Customer record, or marks an existing one "Returning"
+4. Links the resulting Interaction to the correct Customer ID
+5. Feeds a live Dashboard — 12 KPIs computed directly from the data, not typed in
+
+See `docs/capstone-report.pdf` for the full writeup, including known
+limitations and what was deliberately left as a labeled example (campaign-level
+attribution) versus fully computed.
+
+## Tech stack
+
+Google Sheets · Google Forms · Make.com
