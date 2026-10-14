@@ -4,7 +4,7 @@ Cc-HUB Gateway Program: Digital Marketing Track capstone project.
 
 ## Overview
 
-Zahra Fashion & Fabrics is a Nigerian fashion and fabrics SME selling through
+Mum Muyassir's Sew Fashion & Fabrics is a Nigerian fashion and fabrics SME selling through
 WhatsApp, Instagram and Facebook. Before this project, customer enquiries were
 scattered across channels with no central record, follow-up depended on memory,
 and there was no way to tell a new enquirer from a returning customer.
@@ -24,9 +24,9 @@ channels. The system works behind them, not instead of them.
 
 ## Live links
 
-- **Demo video:** https://youtu.be/KPrgDLXMrx4?si=QnSQ5xCGKS9enMGc
-- **CRM workbook (view-only):** https://docs.google.com/spreadsheets/d/10iu7iWy6hfZcIcz2BfT25TfCTHcCVumQ_X11FGebeXE/edit?usp=drivesdk
-- **Lead capture form:** https://docs.google.com/forms/d/e/1FAIpQLScd1RGHyLVsdZTJdMz41KEYr1GIklxJo10UHQhiB9aWie5J3Q/viewform?usp=sharing&ouid=108672187969354715425
+- **Demo video:** [Mum Muyassir's Sew Fashion & Fabrics](https://youtu.be/KPrgDLXMrx4?si=QnSQ5xCGKS9enMGc)
+- **CRM workbook (view-only):** [MUM MUYASSIR'S SEW Fashion & Fabrics CRM](https://docs.google.com/spreadsheets/d/10iu7iWy6hfZcIcz2BfT25TfCTHcCVumQ_X11FGebeXE/edit?usp=drivesdk)
+- **Lead capture form:** [Customer Enquiry Form ](https://docs.google.com/forms/d/e/1FAIpQLScd1RGHyLVsdZTJdMz41KEYr1GIklxJo10UHQhiB9aWie5J3Q/viewform?usp=sharing&ouid=108672187969354715425)
 
 ## System summary
 
