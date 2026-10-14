@@ -1,4 +1,4 @@
-# Mum Muyassir's Sew Fashion & Fabrics — Digital Marketing & CRM Capstone
+# Mum Muyassir's Sew Fashion & Fabrics
 
 Cc-HUB Gateway Program: Digital Marketing Track capstone project.
 
