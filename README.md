@@ -25,7 +25,7 @@ channels. The system works behind them, not instead of them.
 ## Live links
 
 - **Demo video:** [link here]
-- **CRM workbook (view-only):** [link here]
+- **CRM workbook (view-only):** [https://docs.google.com/spreadsheets/d/10iu7iWy6hfZcIcz2BfT25TfCTHcCVumQ_X11FGebeXE/edit?usp=drivesdk]
 - **Lead capture form:** [link here]
 
 ## System summary
